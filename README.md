@@ -1,5 +1,7 @@
 # vue3-anime-app
 
+## Forklanmış bir sistem
+
 ## Project setup
 ```
 npm install
